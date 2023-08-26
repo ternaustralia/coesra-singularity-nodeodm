@@ -1,4 +1,4 @@
-FROM opendronemap/nodeodm:latest
+FROM opendronemap/nodeodm:gpu
 
 WORKDIR  /var/www
 
